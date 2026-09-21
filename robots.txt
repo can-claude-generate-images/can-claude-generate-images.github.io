@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://can-claude-generate-images.github.io/sitemap.xml
